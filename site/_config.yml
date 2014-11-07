@@ -1,15 +1,19 @@
-# Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+title: ♬ (Git)ting to know you, getting to know all about Git! ♬
+email: mike.dillion@gmail.com
+description: >
+  This event will consist of a presentation and workshop geared towards those who
+  want to be effective using Git and Github to collaborate on community projects.
+  No programming skills required! The topics discussed will apply to many use
+  cases such as: organizing projects, collaborating on documents, and just boring
+  old code stuff.
 
-# Build settings
+  After a presentation covering core concepts, participants will use their choice
+  of tools (command-line, GUI, or just Github) to practice basic work-flows that
+  are used to contribute to projects.
+baseurl: "http://gittingtoknowyou.mikedillion.com"
+url: "http://gittingtoknowyou.mikedillion.com"
+twitter_username: mikedillion
+github_username: mikedillion
+
 markdown: kramdown
 exclude: [Gemfile, Gemfile.lock]

@@ -6,4 +6,4 @@
 
   b.  If you'd like to stick to the Github Apps, check out the sites for [Windows](https://windows.github.com/) and [Mac](https://mac.github.com/).
 
-1. **BONUS** Get your symmetric keys setup by following [these instructions]( https://help.github.com/articles/generating-ssh-keys/)
+1. **BONUS** Get your symmetric keys setup by following [these instructions]( https://help.github.com/articles/generating-ssh-keys/).

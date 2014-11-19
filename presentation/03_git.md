@@ -10,21 +10,23 @@
 
 # Commits
 
-Note: set your name and email address!
-
-Note: staging, modified, untracked, unmerged, ignored
+Note:
+set your name and email address!
+staging, modified, untracked, unmerged, ignored
 
 ---
 
 # Branches
 
-Note: local, remote and tracking
+Note:
+local, remote and tracking
 
 ---
 
 # Merging
 
-Note: conflicts!
+Note:
+conflicts!
 
 ---
 
@@ -32,4 +34,5 @@ Note: conflicts!
 
 ## Pushing and Pulling
 
-Note: remotes
+Note:
+remotes

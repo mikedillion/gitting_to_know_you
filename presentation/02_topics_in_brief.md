@@ -30,7 +30,8 @@
  - Authentication
  - Policy, teams, etc
 
-Note: mention how some repos on Github are just mirrors
+Note:
+mention how some repos on Github are just mirrors
 
 ---
 

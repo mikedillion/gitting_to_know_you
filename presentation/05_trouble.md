@@ -18,15 +18,16 @@
 
 # Conflicts
 
-Note: talk about hunks here.
+Note:
+talk about hunks here.
 
 ---
 
 # Rebasing
 
-Note: merge artifacts!
-
-Note: tools
+Note:
+merge artifacts!
+tools
 
 ---
 

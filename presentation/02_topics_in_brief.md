@@ -14,7 +14,8 @@
  - [Wikipedia](http://en.wikipedia.org/wiki/Wikipedia:Contributing_to_Wikipedia)
  - [Google Docs](https://support.google.com/docs/answer/190843?rd=1)
  - NOT a backup
- - Collaboration!
+ - Collaboration
+ - NOT just for code!
 
 ---
 
@@ -23,16 +24,20 @@
 ---
 
 # Then what is Github?
+
  - Social Coding
  - Centralization (I *know*, right?)
  - Authentication
  - Policy, teams, etc
 
+Note: mention how some repos on Github are just mirrors
+
 ---
 
 # But wait, there's more!
 
- - Issues (project management)
- - Wiki (documentation, knowledge base)
- - Collaboration Tools (Pull Requests, Forking)
+ - Issues
+ - Built in Wiki
+ - Collaboration Tools
+ - Visualizations
  - Stats, stats, stats!

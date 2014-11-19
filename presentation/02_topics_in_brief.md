@@ -23,6 +23,7 @@
 ---
 
 # Then what is Github?
+
  - Social Coding
  - Centralization (I *know*, right?)
  - Authentication

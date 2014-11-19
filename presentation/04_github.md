@@ -18,4 +18,12 @@
 
 # Pull Requests
 
-## Fancy Social Merging
+## (Fancy Social Merging)
+
+---
+
+# Issues
+
+---
+
+# Wiki

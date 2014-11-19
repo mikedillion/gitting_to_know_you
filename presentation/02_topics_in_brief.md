@@ -29,11 +29,14 @@
  - Authentication
  - Policy, teams, etc
 
+Note: mention how some repos on Github are just mirrors
+
 ---
 
 # But wait, there's more!
 
- - Issues (project management)
- - Wiki (documentation, knowledge base)
- - Collaboration Tools (Pull Requests, Forking)
+ - Issues
+ - Built in Wiki
+ - Collaboration Tools
+ - Visualizations
  - Stats, stats, stats!

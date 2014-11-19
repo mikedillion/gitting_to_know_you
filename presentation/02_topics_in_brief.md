@@ -7,8 +7,8 @@
 
 # Revision Control?
 
- - Wikipedia
- - Google Docs https://support.google.com/docs/answer/190843?rd=1
+ - [Wikipedia](http://en.wikipedia.org/wiki/Wikipedia:Contributing_to_Wikipedia)
+ - [Google Docs](https://support.google.com/docs/answer/190843?rd=1)
  - NOT a backup
  - Collaboration!
 

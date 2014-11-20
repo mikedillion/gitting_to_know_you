@@ -19,7 +19,7 @@
 
 ---
 
-# So if Git is a *distributed* revision control system, what is a **centralized** revision controll system?
+# So if Git is a *distributed* revision control system, what is a **centralized** revision control system?
 
 ---
 

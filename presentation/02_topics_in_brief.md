@@ -1,5 +1,7 @@
 # Topics in brief
 
++![meow meow](http://gcmag.org/wp-content/uploads/2013/11/Banner-boxer-story-Screen-shot-2013-11-17-at-9.13.15-PM.jpg)
+
 ---
 
 # What is Git?
@@ -19,7 +21,7 @@
 
 ---
 
-# So if Git is a *distributed* revision control system, what is a **centralized** revision controll system?
+# So if Git is a *distributed* revision control system, what is a **centralized** revision control system? 
 
 ---
 

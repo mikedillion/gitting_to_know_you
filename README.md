@@ -6,7 +6,7 @@ After a presentation covering core concepts, participants will use their choice 
 
 Topics:
 - Basic Git workflow
-- Collaborationia Github
+- Collaboration via Github
 - Trouble, and getting ourself out of it.
 
 [Pre-event install!](https://github.com/mikedillion/gitting_to_know_you/blob/master/pre-event_install.md)

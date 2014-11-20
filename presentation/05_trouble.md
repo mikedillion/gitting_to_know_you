@@ -9,7 +9,7 @@
 
 ---
 
-## Everything has been honky dory, smooth sailing up until now.
+## Everything has been hunky-dory, smooth sailing up until now.
 
 
 ## What happens when you're actually working with real people, at different times, using a **distributed** revision control system?

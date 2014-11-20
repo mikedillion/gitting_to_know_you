@@ -10,3 +10,4 @@ Topics:
 - Trouble, and getting ourself out of it.
 
 [Pre-event install!](https://github.com/mikedillion/gitting_to_know_you/blob/master/pre-event_install.md)
+![picture](http://cdn.acidcow.com/pics/20110615/adorable_cat_loving_monkey_02.jpg)

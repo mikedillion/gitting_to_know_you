@@ -1,7 +1,7 @@
 # Trouble!
 
 ## Oh! Here comes the real world
-
+![alien](http://33.media.tumblr.com/tumblr_mdql7yVa9j1rn4dkno1_500.png)
 ---
 
 # Don't Panic.
@@ -9,7 +9,7 @@
 
 ---
 
-## Everything has been honky dory, smooth sailing up until now.
+## Everything has been hunky-dory, smooth sailing up until now.
 
 
 ## What happens when you're actually working with real people, at different times, using a **distributed** revision control system?

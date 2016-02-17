@@ -1,5 +1,5 @@
 # Topics in brief
-![meow meow](http://31.media.tumblr.com/09b1121e8ba4489814d648bb15a412e3/tumblr_n7wijcvC7n1qjm93po1_500.png)
+
 ---
 
 # What is Git?
